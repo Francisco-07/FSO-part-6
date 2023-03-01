@@ -1,9 +1,7 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/redux-anecdotes/node_modules
-/unicafe-redux/node_modules
-/quert-anecdotes/node_modules
+/node_modules
 /.pnp
 .pnp.js
 
